@@ -1,0 +1,71 @@
+/* A simple CSS reset to remove default browser styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* --- Basic Colors, Font, and Spacing --- */
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background-color: #121212; /* A dark background color */
+    color: #e0e0e0; /* A light text color for contrast */
+    line-height: 1.6;
+}
+
+/* --- Navigation Bar Styling --- */
+
+header {
+    background-color: #1e1e1e; /* A slightly lighter dark for the header */
+    padding: 1rem 0;
+    position: sticky; /* Makes the navbar stick to the top on scroll */
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+nav ul {
+    list-style-type: none; /* Removes the bullet points */
+    display: flex; /* Aligns list items in a row */
+    justify-content: center; /* Centers the navigation links */
+    align-items: center;
+}
+
+nav ul li {
+    margin: 0 15px; /* Adds space between the navigation links */
+}
+
+nav ul li a {
+    color: #e0e0e0;
+    text-decoration: none; /* Removes the underline from links */
+    font-weight: bold;
+    font-size: 1.1rem;
+    padding: 5px 10px;
+    transition: color 0.3s ease; /* Smooth transition for hover effect */
+}
+
+nav ul li a:hover {
+    color: #bb86fc; /* A highlight color on hover */
+}
+
+
+/* --- Section Styling --- */
+
+main {
+    padding: 2rem;
+}
+
+section {
+    min-height: 80vh; /* Gives each section some height to make them distinct */
+    padding-top: 60px; /* Offset for the sticky navbar */
+    margin-bottom: 2rem;
+    border-bottom: 1px solid #333; /* Separator line between sections */
+}
+
+h2 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+    text-align: center;
+    color: #bb86fc;
+}
