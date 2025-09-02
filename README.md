@@ -2,12 +2,13 @@
 
 A clean, modern, and fully responsive personal portfolio website built with **HTML**, **CSS**, and **vanilla JavaScript**. This project serves as a central hub to showcase my skills, feature my projects, and provide a way for visitors to connect with me.
 
-![Portfolio Screenshot](screenshot.png) <!-- Add your screenshot here -->
+![Portfolio Screenshot](<img width="1917" height="950" alt="portfolio-preview png" src="https://github.com/user-attachments/assets/9c6a5d93-b487-4014-99a1-6f8da2e041a6" />
+) 
 
 ---
 
 ## 🚀 Live Demo
-[View Live Site](#)  <!-- Update the link after deploying -->
+[View Live Site](#)  
 
 ---
 
@@ -51,7 +52,7 @@ This project is currently in development.
  Create a blog section to share tech insights and projects
 
 📬 Contact
-Your Name – your.email@example.com
+Aryan Raj - aryanbanthu@gmail.com
 
 Project Link: Portfolio Website
 
