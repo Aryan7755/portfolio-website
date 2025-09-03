@@ -2,8 +2,7 @@
 
 A clean, modern, and fully responsive personal portfolio website built with **HTML**, **CSS**, and **vanilla JavaScript**. This project serves as a central hub to showcase my skills, feature my projects, and provide a way for visitors to connect with me.
 
-<img src="https://github.com/user-attachments/assets/9c6a5d93-b487-4014-99a1-6f8da2e041a6" alt="Portfolio Screenshot" width="800">
-
+<img width="3518" height="7590" alt="127 0 0 1_5500_portfolio_portfolio-website_index html" src="https://github.com/user-attachments/assets/dfea988e-4b08-4ecb-b3b1-6232b5c620b0" />
 
 ---
 
