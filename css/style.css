@@ -39,11 +39,26 @@ nav ul li a {
     font-weight: bold;
     font-size: 1.1rem;
     padding: 5px 10px;
+    position: relative;
     transition: color 0.3s ease;
+}
+nav ul li a::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: -5px;                
+    width: 0;
+    height: 2px;
+    background: #bb86fc;
+    transition: width 0.3s ease;
 }
 
 nav ul li a:hover {
     color: #bb86fc; 
+}
+
+nav ul li a:hover::after {
+    width: 100%;
 }
 
 
@@ -128,5 +143,21 @@ h2 {
 }
 
 .project-link:hover {
-    background-color: #a062f8; /
+    background-color: #a062f8; 
+}
+
+.footer{
+    background-color: #1e1e1e;
+    color: #cccccc;
+    text-align: center;
+    padding: 20px 0;
+    margin-top: 2rem;
+
+}
+html{
+    scroll-behavior: smooth;
+}
+
+nav ul li a{
+
 }
