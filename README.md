@@ -1,59 +1,70 @@
-# 🌟 Personal Portfolio Website
+# 🌟 Aryan Raj's Personal Portfolio
 
-A clean, modern, and fully responsive personal portfolio website built with **HTML**, **CSS**, and **vanilla JavaScript**. This project serves as a central hub to showcase my skills, feature my projects, and provide a way for visitors to connect with me.
+A clean, modern, and fully responsive personal portfolio website built with **HTML**, **CSS**, and **vanilla JavaScript**. This site showcases my skills, highlights my projects, and provides ways to connect with me.
 
-<img width="3518" height="7590" alt="127 0 0 1_5500_portfolio_portfolio-website_index html" src="https://github.com/user-attachments/assets/dfea988e-4b08-4ecb-b3b1-6232b5c620b0" />
+## 📸 Screenshot
 
----
+<img src="https://github.com/user-attachments/assets/dfea988e-4b08-4ecb-b3b1-6232b5c620b0" alt="Portfolio Website Screenshot" width="800"/>
 
-## 🚀 Live Demo
-[View Live Site](#)  
+## 🔗 Live Demo
 
----
+[View Live Site](https://aryan7755.github.io/portfolio-website/)
+
 
 ## 📝 About The Project
-This portfolio was created to apply front-end development skills and build a functional online presence. The goal was to create a site that is visually appealing, fast, accessible, and easy to navigate.
 
----
+This portfolio was created to apply front-end development skills and establish a functional online presence. It emphasizes:  
+- **Performance:** Fast loading and smooth navigation  
+- **Accessibility:** Easy to use for all visitors  
+- **Modern Design:** Clean, visually appealing, and fully responsive
 
 ## 🛠 Built With
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
----
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-181717?style=flat&logo=github&logoColor=white)
 
 ## ✨ Features
-- **Responsive Design:** Works perfectly on mobile, tablet, and desktop  
-- **Projects Section:** Showcase of work with links to live demos and source code  
-- **About Me Section:** Introduction to skills, passion, and experience  
-- **Contact Information:** Easy ways for visitors to get in touch  
 
----
+- **Responsive Design:** Works seamlessly on mobile, tablet, and desktop  
+- **Projects Section:** Showcases work with live demos and source code links  
+- **About Me Section:** Highlights skills, experience, and passion for development  
+- **Contact Information:** Quick ways for visitors to reach out  
+- **Smooth Navigation:** Easy scrolling between sections  
+- **Interactive Elements:** Buttons, links, and hover effects enhance user experience
 
 ## 🏃 Getting Started
-To get a local copy up and running:
+
+To run this project locally:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/[your-username]/portfolio-website.git
-Open the project
-Navigate to the project folder and open index.html in your browser
+git clone https://github.com/aryan7755/portfolio-website.git
+cd portfolio-website
+```
+2. **Open the project**
+-Open index.html in your browser
+-Or, if using VS Code, start Live Server for a live preview
 
-📈 Project Status
-This project is currently in development.
+## 📈 Project Status
 
-🔮 Future Goals
- Add animations and transitions for a more dynamic user experience
+![Project Status](https://img.shields.io/badge/status-in%20development-yellow)  
 
- Implement a functional contact form
+This project is actively being improved with new features and updates.
 
- Create a blog section to share tech insights and projects
+## 🔮 Future Goals
 
-📬 Contact
-Aryan Raj - aryanbanthu@gmail.com
+- Add animations and transitions for a more dynamic user experience  
+- Implement a functional contact form  
+- Create a blog section to share tech insights and projects
 
-Project Link: Portfolio Website
+## 📬 Contact
 
-markdown
-Copy code
+- **Email:** [aryanbanthu@gmail.com](mailto:aryanbanthu@gmail.com)  
+- **LinkedIn:** [Aryan Raj](https://www.linkedin.com/in/aryanraj/)  
+- **GitHub:** [aryan7755](https://github.com/aryan7755)
+
+## 🔗 Project Link
+
+[Portfolio Website](https://aryan7755.github.io/portfolio-website/)
